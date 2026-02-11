@@ -1,0 +1,11 @@
+{
+    "mcpServers": {
+        "laravel-boost": {
+            "command": "/home/silent/.config/herd-lite/bin/php",
+            "args": [
+                "/home/silent/Development/Application/php/NativeLaravel/test-mobile/artisan",
+                "boost:mcp"
+            ]
+        }
+    }
+}
